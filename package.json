@@ -1,0 +1,17 @@
+{
+  "name": "scrape.io",
+  "version": "1.0.0",
+  "description": "A web scraping tool set",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "keywords": [
+    "webscrape"
+  ],
+  "author": "Ian Hobbs",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^12.3.0"
+  }
+}
